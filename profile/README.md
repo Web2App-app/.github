@@ -7,7 +7,7 @@ Turn Website Into App
 -------------------
 
 * 🖥️  See our website at [web2app.app](https://web2app.app)
-* 🎲  See our Android app at [play.google.com]([https://web2app.app](https://play.google.com/store/apps/developer?id=Web2App.app))
+* 🎲  See our Android app at [play.google.com](https://play.google.com/store/apps/developer?id=Web2App.app)
 * 🤝  Write to us at contact@web2app.app
 
 <a href="https://www.github.com/Web2App-app" target="_blank" rel="noreferrer"><img
