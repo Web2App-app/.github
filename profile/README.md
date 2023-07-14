@@ -13,8 +13,6 @@ Turn Website Into App
 <a href="https://www.github.com/Web2App-app" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Web2App-app?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
 
-<a href="https://github.com/Web2App-app" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Web2App-app&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 Software
 -------------
 
