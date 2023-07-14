@@ -6,10 +6,9 @@ Web2App.app software house
 Turn Website Into App
 -------------------
 
-<a href="https://discord.com/users/716946817669005322" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-
 * 🖥️  See our website at [web2app.app](https://web2app.app)
-* 🚀  Write to us at contact@web2app.app
+* 🎲  See our Android app at [play.google.com]([https://web2app.app](https://play.google.com/store/apps/developer?id=Web2App.app))
+* 🤝  Write to us at contact@web2app.app
 
 <a href="https://www.github.com/Web2App-app" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Web2App-app?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
