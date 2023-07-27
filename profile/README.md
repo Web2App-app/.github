@@ -7,7 +7,7 @@ Web2App.app Turn Website Into App
 ![Q7i2](https://github.com/Web2App-app/.github/assets/82395633/8e39bb4a-9ab7-4704-9c19-c1d4ec8eddf1)
 
 * 🖥️  See our website at [web2app.app](https://web2app.app)
-* 🎲  See our apps at [play.google.com/store/apps/developer?id=Web2App.app](https://play.google.com/store/apps/developer?id=Web2App.app)
+* 🎲  See our app at [play.google.com/store/apps/developer?id=Web2App.app](https://play.google.com/store/apps/developer?id=Web2App.app)
 * 🤝  Write to us at contact@web2app.app
 
 <a href="https://www.github.com/Web2App-app" target="_blank" rel="noreferrer"><img
